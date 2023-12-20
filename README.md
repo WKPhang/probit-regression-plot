@@ -3,8 +3,8 @@ A tool to create probit regression model and its graphical plot with confidence 
 
 ## Dataset
 The dataset provided "pseudoabsence_diagnostic_performance" is pseudodata created to mimic the diagnostic performance of an antibody detection kit. The column details are:
-antibody_conc: antibody concentration (mg/mL)
-positive: positive detection (1 is positive, 0 is negative (undetected))
+- antibody_conc: antibody concentration (mg/mL)
+- positive: positive detection (1 is positive, 0 is negative (undetected))
 
 ## Features
 - Fit probit regression models
