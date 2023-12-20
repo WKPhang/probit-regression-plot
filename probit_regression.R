@@ -1,7 +1,7 @@
 getwd()
 setwd("C:/YOUR/WORK/DIRECTORY")
 
-df <- read.csv("diagnostic_performance.csv", stringsAsFactors = T)
+df <- read.csv("pseudodata_diagnostic_performance.csv", stringsAsFactors = T)
 
 library(aod)
 library(ggplot2)
